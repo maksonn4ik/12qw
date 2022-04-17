@@ -1,0 +1,7 @@
+echo "# 12qw" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/maksonn4ik/12qw.git
+git push -u origin main
